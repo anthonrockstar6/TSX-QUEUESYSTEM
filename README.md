@@ -1,6 +1,9 @@
 # TSX-QUEUESYSTEM
 A simple TSX Queue system for Businesses
+
 Helped by CHATGPT
+
+WINDOWS PC ONLY!
 
 # Requirments
 - [NodeJS](https://nodejs.org/en)
